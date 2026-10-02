@@ -10,3 +10,4 @@ if prime == True:
     print ("Number is prime")
 else:
     print ("Number is not prime")
+    
